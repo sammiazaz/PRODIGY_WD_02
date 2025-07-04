@@ -43,11 +43,11 @@ You only need a web browser to run this application. No special server setup is 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/stopwatch-web-application.git](https://github.com/YOUR_USERNAME/stopwatch-web-application.git)
+    git clone [https://github.com/sammiazaz/PRODIGY_WD_02.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd stopwatch-web-application
+    cd PRODIGY_WD_02
     ```
 
 ## Usage
